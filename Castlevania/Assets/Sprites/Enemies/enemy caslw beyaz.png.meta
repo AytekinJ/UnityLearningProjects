@@ -1,0 +1,3332 @@
+fileFormatVersion: 2
+guid: f738b4b867bd547b2bfff5a3693b7f3b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemy caslw beyaz_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 320
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a70bab50071040b5b3cee4371b9fea6
+      internalID: -709694525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9da99823b974ca3b126ec354f012f5
+      internalID: 648512753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 320
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da3c83b9c7fa4b2892ad9a07b6f9cb3
+      internalID: 377088963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005351487ca7449059024d12ffa6ce33
+      internalID: 1270658633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 320
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94eb05ac0fbf24197be3d7572b4aa8d7
+      internalID: -451121652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602aa5ea2f062499ea9af86220660fe7
+      internalID: -114295368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_6
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 320
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b113a9b05430546bf83dea5f09306e2e
+      internalID: -585400407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353e28f87abf9456aa8cf57861ebf9a3
+      internalID: 686606116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_8
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 320
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e7b4ea1e8fe4608a1470d045a519d3
+      internalID: 1359392017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_9
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beda445362589422298b2da987ce2fc4
+      internalID: 1230629763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09275ff9efbfa4e70826da1abc1e6702
+      internalID: -1210861675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_11
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 320
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5c213f1ac8f4fc0929da7f2c59a423
+      internalID: -363637167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_12
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 320
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e58f3f504d54a098a76bb0bcb6c6bf
+      internalID: 732373681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_13
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 320
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0fa88e7bc9849b98077adefef9905d
+      internalID: -1103364287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_14
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 320
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cdc7ac2103746249bee017ee08c991
+      internalID: 1535951623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_15
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90b4fb05819341b0a2cd5a985db4209
+      internalID: 1097596439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_16
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 320
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e49f2e4466d4ab4932160850425a8b
+      internalID: 1904314651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_17
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 320
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843c06ab994b744178d84b3fc4c92867
+      internalID: 1683585406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 272
+        width: 17
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4653073f61afc4016a72d6f6b6408751
+      internalID: 1329714663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_19
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 272
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b8ad121b51b4b17aa0cbddfbe58e6b
+      internalID: -1470021595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 272
+        width: 17
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbe4b84c62fc4fe5bac6779887e5dd3
+      internalID: -1460073549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_21
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 272
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9be1c2c07a5f4296bee2313d7b3b5a6
+      internalID: -152285184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_22
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 272
+        width: 17
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a686651015864ef69e104b3ae4365b1
+      internalID: 2128013274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_23
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 272
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ba31789cd43423c958ed87e1240b78
+      internalID: -932410118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_24
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 272
+        width: 17
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136e1d2d68cbe4847a4c06c417a0edaf
+      internalID: 1017835081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_25
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 272
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fc2b2c6ddc544ef8cbf45d19968e58
+      internalID: 365101996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_26
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 272
+        width: 17
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e84e85a87de34330bd81a7302598fd8
+      internalID: 1764282038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_27
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 272
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42b25289e9614349b85eaca8b7eddd0
+      internalID: 1009730842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_28
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 272
+        width: 17
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b7fa7faa0c14195a7e9ab883483aee
+      internalID: 1727291132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_29
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 271
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2164df4540cd24dc4b99e763b930bc5c
+      internalID: 1143585185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_30
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 272
+        width: 17
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5074aa7e08204f458642c6a292fab39
+      internalID: 427657633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_31
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 272
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f008ae94328f4fc09f2e656d772dce9
+      internalID: 1938055933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_32
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 272
+        width: 17
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8872122f160c346428fb0e2526859867
+      internalID: 536281449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_33
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 272
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec437eba1deef4fcd8d7aedbaeae3b28
+      internalID: 1083702804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_34
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 272
+        width: 17
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a4bf972e8ee4a4fa9dad660aa83027
+      internalID: -623968450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_35
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 272
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa293ca4cf18f4b999fa4231f5e83f3b
+      internalID: 93500125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_36
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 272
+        width: 17
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a94cca64a6ee40269d3ac854e12073a
+      internalID: -379451322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_37
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 272
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f08dd65db753418aa712119c966d61b
+      internalID: 1214716031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_38
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 272
+        width: 17
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94b91ea8a3b94d309275c7998e5193d
+      internalID: -1542008278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_39
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 272
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a623dc72eccda4b1e983f75035c8f0b4
+      internalID: -1796064023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_40
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 272
+        width: 17
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4ae0fd8906e49c78aad325ea20057a
+      internalID: 1615472319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_41
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 272
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1535af87eefb40a18bdb08698fd0b1f
+      internalID: -1560508353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 242
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e44322e3cc142ca908c0520370453d
+      internalID: 2144671454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_43
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 240
+        width: 4
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274dc5a2a527348a8823dc8e0013c207
+      internalID: 1767788792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_44
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 242
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667732bac5b2542c48a7da95caa30cb8
+      internalID: 1055281754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_45
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 242
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494e97c751bd547da86e0709e4d2931c
+      internalID: 340557733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_46
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 240
+        width: 4
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981289c10ba714df6b20bf5774a3f511
+      internalID: -1659788020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_47
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 242
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572a0f585e8194a0d84afc352d645d32
+      internalID: 991237927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_48
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 242
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268f9326b3b8e4079969a020545f1a81
+      internalID: -894277503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_49
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 240
+        width: 4
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620485fd58b2142fe861225f97137a4e
+      internalID: -1964250348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_50
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 242
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf53c1b59ba524ecd92fb3c2b05b9e2e
+      internalID: 929987831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_51
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 243
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e8d0e850e9e4a3f9e0171348625acd
+      internalID: 1951745902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_52
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 241
+        width: 4
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd84e9fc50bf4a6cbf39aa2f055315d
+      internalID: 659041654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_53
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 243
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df91e29c47784d2ba0c0758739608e6
+      internalID: 85363702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_54
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 243
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2f4c0076436409289b71288c658196
+      internalID: -310632864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_55
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 241
+        width: 4
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ea12d9a47af4a44a3db4a32256bf16
+      internalID: 1279614170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_56
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 243
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9f94eedbe5344338cca1b4391c126c
+      internalID: -872767963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_57
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 243
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126d28c888d8b4455aa0485f87467330
+      internalID: -1599655412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_58
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 241
+        width: 4
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581a68ff580574a09a28a9cdbceca8c4
+      internalID: -1175325966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_59
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 243
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab1a4c8d9bed455190745c98eb06330
+      internalID: -1765427356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_60
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 243
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f430f3063b9e42f4856ef46593755ce
+      internalID: 763576128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_61
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 241
+        width: 4
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60606a9cf1a1041e2945bf493de55510
+      internalID: 472678288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_62
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 243
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a316d10221abd49e7a25ebf8f0418f70
+      internalID: 1998991764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_63
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 224
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74ca956c6d154ba486afb606922ab07
+      internalID: -802319615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_64
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 224
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4553cea21513c483d9f2da9d6cf5c778
+      internalID: 614562906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_65
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 224
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc21ffa6c10b4ca2984eaf099a9245f
+      internalID: -365662935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_66
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 224
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e500d10a058842d4abb7f3ab0624d51
+      internalID: -1011125500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_67
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 224
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423e363ec433f486ab24e684588561ff
+      internalID: -917882465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_68
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 224
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f7b59b8984b46da91508d2cbea9682
+      internalID: -461062231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_69
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 224
+        width: 7
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f0fb2ff36a64550b866d81d00f2b07
+      internalID: 72045878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_70
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 228
+        width: 12
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ff096e3dbd244d9addb34e1f5ff8bd
+      internalID: -417651057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_71
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 226
+        width: 14
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775911d072be54e36bf7868ec90e8af5
+      internalID: -127078882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_72
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 226
+        width: 16
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c79935e183f422a98c43ccc5179726
+      internalID: 2118571287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_73
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 224
+        width: 7
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835c2a3ee843b4dfeaf50899dcbbb067
+      internalID: 834867453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_74
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 228
+        width: 12
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb77f427f57b44b8bb511ca281c4aca
+      internalID: -1393343159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_75
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 227
+        width: 14
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c3ddf2b4fbf44f68fb79d282a1e79c
+      internalID: 226915047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_76
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 227
+        width: 16
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44926dee4a7f4319850b6f9ceb79d67
+      internalID: -719902554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_77
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 224
+        width: 7
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ee8bef9071e4aaca84d7e3d5f55a97
+      internalID: -912751969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_78
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 228
+        width: 12
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5067aeb93df459bbe8142a23e7165b
+      internalID: -1112579621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_79
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 227
+        width: 14
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f519c1b4b6e8446c39cbb17a54e7e721
+      internalID: 1285851658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_80
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 227
+        width: 16
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992462654d66344bd88201cd2b5ffd5d
+      internalID: 1682712738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_81
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced9affd798c843389db0a6fcb51fc69
+      internalID: 1225347895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_82
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 192
+        width: 15
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7799379c369a849e29e9595aa9495990
+      internalID: 515975176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_85
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 192
+        width: 15
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bcf79606786445b988fc388e4b6baf
+      internalID: 1386806258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_86
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fef87bb8570f441c96b488d363f4fa2
+      internalID: 623500751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_87
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b16f2d3cc48415281d0a33300af94e
+      internalID: 330302266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_88
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 192
+        width: 15
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c340513815c44960ba6e6a2f6b89cc8
+      internalID: 1063395908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_89
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 192
+        width: 15
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0938655405e1a49f4b5dd71fdd6f5839
+      internalID: -1374857479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_90
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 192
+        width: 22
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a799204d46344a75847eec1e932a3e7
+      internalID: 478184362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_91
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 192
+        width: 23
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29a7548f19a74dce8c2c6988ca6b7e1
+      internalID: 918721405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_92
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 192
+        width: 24
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891c9564060b5446a908bb6f0d8a189f
+      internalID: 1027636522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_93
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 192
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc0415c1937646f1959818f3bbe4758
+      internalID: 1691142826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_94
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 192
+        width: 24
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda3540b060504aaf996c72274e3c801
+      internalID: -1118192849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_95
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 192
+        width: 24
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c614e625cfb54df395f324438b13729
+      internalID: -535195389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_96
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 192
+        width: 24
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448caf4bd5d3046d69136457dc23b97a
+      internalID: 1751544938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_97
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8d4cc44d3184c8eb914e7a6e0bf3d7
+      internalID: -1118845625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_98
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885ce7d7ce923452aaabf09925fb95e9
+      internalID: 752365652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_99
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f482fb689384f67b3f9e7a6a75d265
+      internalID: 1945789071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_100
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 192
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79fdd84b2a3a4d7bb98bc17de6f4e23
+      internalID: 602797322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_101
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c281df41adbb44c748c621dc43b43235
+      internalID: -1305054442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_102
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 191
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0570bd28971b4ecf8145aa4a515b81c
+      internalID: -898297373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_103
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fa9b6d7ba4e494ebc08dad0a1720e4
+      internalID: 512129617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_104
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 192
+        width: 25
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef257de7cb91042ffbf9dfffc3bc13bb
+      internalID: -110656267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_105
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 192
+        width: 16
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff90fc70769f443db9be12848b7ab05
+      internalID: 532062348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_106
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 192
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d02f79ec07b4ed58d174b93efab031
+      internalID: -163134446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_107
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 144
+        width: 21
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfa6723022204b89bad0ef23b814fe1
+      internalID: -197669711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_108
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 144
+        width: 22
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e201c891a53f4b6faf61c98c867a419
+      internalID: 2143556720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_109
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 145
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c140e478f00054c2c87923ef15064b05
+      internalID: -1087066018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_110
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 144
+        width: 21
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdeb6fce516a24c58b634fabd59aa87f
+      internalID: -2042979793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_111
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 144
+        width: 22
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eca28124ee8544b0b68ba921f326a44
+      internalID: 1813385925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_112
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 145
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9691683c67ef45d29c39aaa90f7306c
+      internalID: -1484340818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_113
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 144
+        width: 17
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b43ba3f8ab34fcb8b10c6105e205f5
+      internalID: 181645212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_114
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 144
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bc2a9ffd7ff4ae090f8f341194f277
+      internalID: -1224041490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_115
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 144
+        width: 15
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c754ce02b50724ecab40b1c08d66960e
+      internalID: -1070659451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_116
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 144
+        width: 24
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5155f2b716c2249b4976e0fbc2422975
+      internalID: 2109727864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_117
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 144
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51609470db71433e8806337133fbcad
+      internalID: 1848933109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_118
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 144
+        width: 31
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071bfaa858c1c438588bd664c4859c4c
+      internalID: 1149093736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_119
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 144
+        width: 24
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d892dd00d9fd44be4bd78f37224535c4
+      internalID: 1851516402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_120
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 144
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415bf85a095c343fbbdb9e687c09d13d
+      internalID: -877223820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_121
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 144
+        width: 24
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7282e50fc3084b67b5590c6b97986d7
+      internalID: -1913118876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_122
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 144
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51bdaa0d2a96403987b9f9b94cd0204
+      internalID: 636477674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_123
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 144
+        width: 24
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc44d56669b0c4283ab7e6e089bf8a74
+      internalID: 45162120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_124
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 144
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d33560972bc943b981ab01d74af7c8b
+      internalID: -764428259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_125
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 144
+        width: 24
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e74e9378056d49d48d72f8907aa0963
+      internalID: -1617991022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_126
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 144
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6d5ee35fa2144fcb22e69b20f5146a
+      internalID: -1733064279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_127
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 144
+        width: 30
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9893397048a470696bf8c4733adec1
+      internalID: 2085582548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_128
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 144
+        width: 34
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cef1269040114ead9f511ad16c9122d
+      internalID: -1275075196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_129
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fa3e6e8507144eead5c312ccf50a1b
+      internalID: -746932887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_130
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 96
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc033b5d43dc4e4699543976fdc62ae
+      internalID: -965008399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_131
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82975164e2011495a90791ae8f0d6682
+      internalID: -269422564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_132
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 96
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f593b6e8c0c4437a5c0e62363a997b
+      internalID: -883451870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_133
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 96
+        width: 14
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7817028cc5f6e405d87f5cb963303fe6
+      internalID: 499058280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_134
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 16
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cd2bce64ed54cd9879949ea65f683d
+      internalID: -1139817439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_135
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 96
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8bffc3eafee4ed6b392fe27bca8cf4
+      internalID: -973993030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_136
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501cea865258f4826957de168107369c
+      internalID: 780952066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_137
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 96
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa05a3d5ffd2d47249f707581656b680
+      internalID: -1057619928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_138
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 97
+        width: 18
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f34cf90aa9a4f38a6a8cb6613ed8f6
+      internalID: -2091323412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_139
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 100
+        width: 15
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613eb2674192e489e8f9b181ca01d5bd
+      internalID: 971010608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_140
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 96
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a780446169d394bb18aefd2a4bcbf49c
+      internalID: -1954755867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_141
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 96
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081cfceeb2fab48b48065294224dcc1b
+      internalID: 1857629709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_142
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 96
+        width: 11
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a922b5638bc946e4a2346bd46053b08
+      internalID: -1207437399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_143
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 101
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331030c81ec9b47c390fdd56793f4713
+      internalID: 834808606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_144
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4c2e9a0ff5f4be0877e0a1d664729c
+      internalID: -1343883451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_145
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3384b41fdf444895af35b472768e4d2
+      internalID: 2082443827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy caslw beyaz_146
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 96
+        width: 16
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d985772e0f75439f99002645d019cfa
+      internalID: -2134056560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      enemy caslw beyaz_0: -709694525
+      enemy caslw beyaz_1: 648512753
+      enemy caslw beyaz_10: -1210861675
+      enemy caslw beyaz_100: 602797322
+      enemy caslw beyaz_101: -1305054442
+      enemy caslw beyaz_102: -898297373
+      enemy caslw beyaz_103: 512129617
+      enemy caslw beyaz_104: -110656267
+      enemy caslw beyaz_105: 532062348
+      enemy caslw beyaz_106: -163134446
+      enemy caslw beyaz_107: -197669711
+      enemy caslw beyaz_108: 2143556720
+      enemy caslw beyaz_109: -1087066018
+      enemy caslw beyaz_11: -363637167
+      enemy caslw beyaz_110: -2042979793
+      enemy caslw beyaz_111: 1813385925
+      enemy caslw beyaz_112: -1484340818
+      enemy caslw beyaz_113: 181645212
+      enemy caslw beyaz_114: -1224041490
+      enemy caslw beyaz_115: -1070659451
+      enemy caslw beyaz_116: 2109727864
+      enemy caslw beyaz_117: 1848933109
+      enemy caslw beyaz_118: 1149093736
+      enemy caslw beyaz_119: 1851516402
+      enemy caslw beyaz_12: 732373681
+      enemy caslw beyaz_120: -877223820
+      enemy caslw beyaz_121: -1913118876
+      enemy caslw beyaz_122: 636477674
+      enemy caslw beyaz_123: 45162120
+      enemy caslw beyaz_124: -764428259
+      enemy caslw beyaz_125: -1617991022
+      enemy caslw beyaz_126: -1733064279
+      enemy caslw beyaz_127: 2085582548
+      enemy caslw beyaz_128: -1275075196
+      enemy caslw beyaz_129: -746932887
+      enemy caslw beyaz_13: -1103364287
+      enemy caslw beyaz_130: -965008399
+      enemy caslw beyaz_131: -269422564
+      enemy caslw beyaz_132: -883451870
+      enemy caslw beyaz_133: 499058280
+      enemy caslw beyaz_134: -1139817439
+      enemy caslw beyaz_135: -973993030
+      enemy caslw beyaz_136: 780952066
+      enemy caslw beyaz_137: -1057619928
+      enemy caslw beyaz_138: -2091323412
+      enemy caslw beyaz_139: 971010608
+      enemy caslw beyaz_14: 1535951623
+      enemy caslw beyaz_140: -1954755867
+      enemy caslw beyaz_141: 1857629709
+      enemy caslw beyaz_142: -1207437399
+      enemy caslw beyaz_143: 834808606
+      enemy caslw beyaz_144: -1343883451
+      enemy caslw beyaz_145: 2082443827
+      enemy caslw beyaz_146: -2134056560
+      enemy caslw beyaz_15: 1097596439
+      enemy caslw beyaz_16: 1904314651
+      enemy caslw beyaz_17: 1683585406
+      enemy caslw beyaz_18: 1329714663
+      enemy caslw beyaz_19: -1470021595
+      enemy caslw beyaz_2: 377088963
+      enemy caslw beyaz_20: -1460073549
+      enemy caslw beyaz_21: -152285184
+      enemy caslw beyaz_22: 2128013274
+      enemy caslw beyaz_23: -932410118
+      enemy caslw beyaz_24: 1017835081
+      enemy caslw beyaz_25: 365101996
+      enemy caslw beyaz_26: 1764282038
+      enemy caslw beyaz_27: 1009730842
+      enemy caslw beyaz_28: 1727291132
+      enemy caslw beyaz_29: 1143585185
+      enemy caslw beyaz_3: 1270658633
+      enemy caslw beyaz_30: 427657633
+      enemy caslw beyaz_31: 1938055933
+      enemy caslw beyaz_32: 536281449
+      enemy caslw beyaz_33: 1083702804
+      enemy caslw beyaz_34: -623968450
+      enemy caslw beyaz_35: 93500125
+      enemy caslw beyaz_36: -379451322
+      enemy caslw beyaz_37: 1214716031
+      enemy caslw beyaz_38: -1542008278
+      enemy caslw beyaz_39: -1796064023
+      enemy caslw beyaz_4: -451121652
+      enemy caslw beyaz_40: 1615472319
+      enemy caslw beyaz_41: -1560508353
+      enemy caslw beyaz_42: 2144671454
+      enemy caslw beyaz_43: 1767788792
+      enemy caslw beyaz_44: 1055281754
+      enemy caslw beyaz_45: 340557733
+      enemy caslw beyaz_46: -1659788020
+      enemy caslw beyaz_47: 991237927
+      enemy caslw beyaz_48: -894277503
+      enemy caslw beyaz_49: -1964250348
+      enemy caslw beyaz_5: -114295368
+      enemy caslw beyaz_50: 929987831
+      enemy caslw beyaz_51: 1951745902
+      enemy caslw beyaz_52: 659041654
+      enemy caslw beyaz_53: 85363702
+      enemy caslw beyaz_54: -310632864
+      enemy caslw beyaz_55: 1279614170
+      enemy caslw beyaz_56: -872767963
+      enemy caslw beyaz_57: -1599655412
+      enemy caslw beyaz_58: -1175325966
+      enemy caslw beyaz_59: -1765427356
+      enemy caslw beyaz_6: -585400407
+      enemy caslw beyaz_60: 763576128
+      enemy caslw beyaz_61: 472678288
+      enemy caslw beyaz_62: 1998991764
+      enemy caslw beyaz_63: -802319615
+      enemy caslw beyaz_64: 614562906
+      enemy caslw beyaz_65: -365662935
+      enemy caslw beyaz_66: -1011125500
+      enemy caslw beyaz_67: -917882465
+      enemy caslw beyaz_68: -461062231
+      enemy caslw beyaz_69: 72045878
+      enemy caslw beyaz_7: 686606116
+      enemy caslw beyaz_70: -417651057
+      enemy caslw beyaz_71: -127078882
+      enemy caslw beyaz_72: 2118571287
+      enemy caslw beyaz_73: 834867453
+      enemy caslw beyaz_74: -1393343159
+      enemy caslw beyaz_75: 226915047
+      enemy caslw beyaz_76: -719902554
+      enemy caslw beyaz_77: -912751969
+      enemy caslw beyaz_78: -1112579621
+      enemy caslw beyaz_79: 1285851658
+      enemy caslw beyaz_8: 1359392017
+      enemy caslw beyaz_80: 1682712738
+      enemy caslw beyaz_81: 1225347895
+      enemy caslw beyaz_82: 515975176
+      enemy caslw beyaz_83: 674222698
+      enemy caslw beyaz_84: -1824612895
+      enemy caslw beyaz_85: 1386806258
+      enemy caslw beyaz_86: 623500751
+      enemy caslw beyaz_87: 330302266
+      enemy caslw beyaz_88: 1063395908
+      enemy caslw beyaz_89: -1374857479
+      enemy caslw beyaz_9: 1230629763
+      enemy caslw beyaz_90: 478184362
+      enemy caslw beyaz_91: 918721405
+      enemy caslw beyaz_92: 1027636522
+      enemy caslw beyaz_93: 1691142826
+      enemy caslw beyaz_94: -1118192849
+      enemy caslw beyaz_95: -535195389
+      enemy caslw beyaz_96: 1751544938
+      enemy caslw beyaz_97: -1118845625
+      enemy caslw beyaz_98: 752365652
+      enemy caslw beyaz_99: 1945789071
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

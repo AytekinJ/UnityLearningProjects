@@ -1,0 +1,2700 @@
+fileFormatVersion: 2
+guid: 47e32aac330914b7f925223af2ebca97
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ccas_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 690
+        width: 16
+        height: 29
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15edb3aa858a4c16bc8a081a707aee4
+      internalID: 605165196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 690
+        width: 16
+        height: 28
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be06dca5563c4b9aabeda14440896ef
+      internalID: 883785342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 690
+        width: 16
+        height: 27
+      alignment: 9
+      pivot: {x: -0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b309217d00334424996afc645974dca
+      internalID: 1328993239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 690
+        width: 16
+        height: 28
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4c9e7d0e44743e9af2f796287cccf2
+      internalID: -1243849232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_4
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 690
+        width: 16
+        height: 27
+      alignment: 9
+      pivot: {x: 0.0625, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfce13ba2a93a4fbc8278f8ed31e8a3d
+      internalID: 1841557674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_5
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 690
+        width: 11
+        height: 29
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879f1517354134c71b1d79e048f135f7
+      internalID: 79752290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_6
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 690
+        width: 12
+        height: 31
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6545ee9a36c491faefef3edf10d54a
+      internalID: 1488886798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_7
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 690
+        width: 16
+        height: 29
+      alignment: 9
+      pivot: {x: -0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca94a0cedc1d4762b5b80cf3cb5659f
+      internalID: 223803795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_8
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 690
+        width: 16
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763a53aa9bc6342e2954abb0ae950850
+      internalID: 1256508162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 690
+        width: 16
+        height: 22
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ddaa974a6134e34a344630aaec805f
+      internalID: -370702446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_10
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 690
+        width: 16
+        height: 21
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7426fef7fcff43baaba9dd7dd1c0d9e
+      internalID: -1151099892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_11
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 690
+        width: 16
+        height: 22
+      alignment: 9
+      pivot: {x: -0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba017b7be61994d468582447dbe92f34
+      internalID: 1256290290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_12
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 690
+        width: 25
+        height: 29
+      alignment: 9
+      pivot: {x: 0.35999998, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c556b85b6ce47e483ca16196dd5c33
+      internalID: 595546392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_13
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 690
+        width: 16
+        height: 29
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fce616e6f284efda3cb79869c6f516
+      internalID: -425988511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_14
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 690
+        width: 22
+        height: 29
+      alignment: 9
+      pivot: {x: -0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272c526457d744476bb7afd3bf7a4f0b
+      internalID: 649908666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_15
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 690
+        width: 11
+        height: 30
+      alignment: 9
+      pivot: {x: -0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42951dbd824194eabb6f229d307fc2e9
+      internalID: -26663032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_16
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 689
+        width: 16
+        height: 31
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5465e93e6bbf442b8f3e44b8c8bab92
+      internalID: -303909854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 690
+        width: 11
+        height: 30
+      alignment: 9
+      pivot: {x: -0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e586680cc682a40e3ad2f4b7c870da5c
+      internalID: 260854017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_18
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 690
+        width: 16
+        height: 31
+      alignment: 9
+      pivot: {x: 0.125, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc585b1b49d64cd882a32a1818a4608
+      internalID: 502179435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 642
+        width: 16
+        height: 29
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d86b84b2a7224009bae2d94c3ff4b2b
+      internalID: 1711804478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_20
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 642
+        width: 32
+        height: 15
+      alignment: 9
+      pivot: {x: 0, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d969653bf391640319378f62c5d6ffbc
+      internalID: -1089747377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 642
+        width: 19
+        height: 29
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d711d4985b624565a65c24f6b49d5d2
+      internalID: -1226608509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_22
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 642
+        width: 19
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3448d9ffadf4926b7eb89136eef0fa
+      internalID: -2067061775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_23
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 642
+        width: 18
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2287f3d70ae534c5195d7ddaceb78045
+      internalID: 807318155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 593
+        width: 32
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.033333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801814c40654d4f9688476c04f7442d7
+      internalID: -565778718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_25
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 594
+        width: 31
+        height: 29
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d0c10d8df7842c58e97b0124b08b1f
+      internalID: -11532339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_26
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 594
+        width: 61
+        height: 41
+      alignment: 9
+      pivot: {x: 0.21311474, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a9ddb2a9f9540d8a3cde6c324da60d
+      internalID: -150875851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_27
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 594
+        width: 60
+        height: 41
+      alignment: 9
+      pivot: {x: 0.23333335, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29add94f2950c48ebb8231c74312bd2b
+      internalID: 1672930931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_28
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 594
+        width: 56
+        height: 41
+      alignment: 9
+      pivot: {x: 0.21428573, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6488b8356bca498b9c575ec433e3de1
+      internalID: 79778034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_30
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 594
+        width: 56
+        height: 41
+      alignment: 9
+      pivot: {x: 0.1607143, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c87b87540dce486ebc0e4e16cb8043e
+      internalID: 669909775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 594
+        width: 43
+        height: 40
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703afb6977d1c492395b7aa5d829e73e
+      internalID: -1615794834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_33
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 594
+        width: 37
+        height: 29
+      alignment: 9
+      pivot: {x: -0, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac85c3b5026fa4c598d6e1feda3f7a0e
+      internalID: -989169926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 538
+        width: 32
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85291b6b28a9a4ca6861ecbd9841adcd
+      internalID: -362144467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_35
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 546
+        width: 31
+        height: 23
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56fd5c1ec3654b6aa5e4d44121ca574
+      internalID: -1873677061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_36
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 544
+        width: 61
+        height: 37
+      alignment: 9
+      pivot: {x: 0.21311474, y: 0.054054055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9889ebc439d4467b85e2800d98ffa2
+      internalID: -2016715564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_37
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 545
+        width: 60
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23333335, y: 0.027777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d809bffd79e489aacc5e171a45f730
+      internalID: 581586009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_38
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 546
+        width: 56
+        height: 35
+      alignment: 9
+      pivot: {x: 0.21428573, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fe011a4bdb74a71accba48b671d207
+      internalID: 1188160626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_40
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 546
+        width: 56
+        height: 32
+      alignment: 9
+      pivot: {x: 0.1607143, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d814f017cb0a4721ae343280293c006
+      internalID: -968481505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 546
+        width: 43
+        height: 34
+      alignment: 9
+      pivot: {x: -0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7aa78673771437da370a421fb821cb
+      internalID: 789990363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 546
+        width: 37
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f0d0a6eb08241e8aacbc8a2b0f13cc
+      internalID: -1855143704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 482
+        width: 32
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bf2020af960487e9dcca9a303a59b9
+      internalID: -1112562502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_45
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 482
+        width: 31
+        height: 31
+      alignment: 9
+      pivot: {x: 0.48387095, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea1a1deb612b4909b8c5a1bffc1411a
+      internalID: -1175360682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_46
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 482
+        width: 61
+        height: 43
+      alignment: 9
+      pivot: {x: 0.21311474, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4dda351272f48c59e55e7e9c1e0532
+      internalID: -723218923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_47
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 482
+        width: 60
+        height: 43
+      alignment: 9
+      pivot: {x: 0.23333335, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c70be8f1d63e44608faa58dbae970bd
+      internalID: -999156632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_49
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 482
+        width: 59
+        height: 43
+      alignment: 9
+      pivot: {x: 0.20338982, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cfee7912245452abd9e65e5e70ff60
+      internalID: -400828111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_50
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 482
+        width: 56
+        height: 43
+      alignment: 9
+      pivot: {x: 0.1607143, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca245102c384847af98a2faf078d8ef4
+      internalID: -1135998365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_52
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 482
+        width: 43
+        height: 42
+      alignment: 9
+      pivot: {x: -0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c71d041427e94c058497bc796414c38
+      internalID: -1213577069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_53
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 482
+        width: 37
+        height: 31
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b24c5cae36e48e4ac03ac7f694b397
+      internalID: -147693012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_54
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 418
+        width: 31
+        height: 31
+      alignment: 9
+      pivot: {x: 0.58064514, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7911d5e5d6548c98f767b8bd38d39a
+      internalID: 1801213195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_55
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 418
+        width: 30
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5666667, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcb6a6c7cacf4b39a9f292b4e6733be
+      internalID: -432144173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_56
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 418
+        width: 61
+        height: 43
+      alignment: 9
+      pivot: {x: 0.24590163, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0165bb14acff0457ba7bc2d07b9e10e0
+      internalID: -1428730478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_57
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 418
+        width: 60
+        height: 43
+      alignment: 9
+      pivot: {x: 0.26666668, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789a9ccc412564985996f211257a9131
+      internalID: -1731491252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_59
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 418
+        width: 59
+        height: 43
+      alignment: 9
+      pivot: {x: 0.23728813, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da821cbb896804d25a231a5dccf35fce
+      internalID: 839661204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_60
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 418
+        width: 56
+        height: 40
+      alignment: 9
+      pivot: {x: 0.19642858, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366f66abde8884e31959413dd6faadc6
+      internalID: -111862342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_62
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 418
+        width: 43
+        height: 42
+      alignment: 9
+      pivot: {x: 0.046511628, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdea47a5d672421db10765c1d184702
+      internalID: 1540717072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_63
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 418
+        width: 37
+        height: 31
+      alignment: 9
+      pivot: {x: 0.054054055, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce2f3dedac384f0d8f7a6edcbea9dd2
+      internalID: -1452835059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_64
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 354
+        width: 33
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.033333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d9602e43f214f31b4a798026c28e25
+      internalID: -1709011431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_65
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 354
+        width: 32
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad12dacc3071c470f8973b8ac4983402
+      internalID: -1061704218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_66
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 354
+        width: 49
+        height: 29
+      alignment: 9
+      pivot: {x: -0, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c04d2f957a34b659ee67b2740df882
+      internalID: 1130362609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_67
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 346
+        width: 33
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.2580645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e77dad3c9c041d389dcf4328b1bf34
+      internalID: -1245315379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_68
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 354
+        width: 32
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a255b96d087934ffea32daa24868b0b8
+      internalID: -1300136448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_69
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 354
+        width: 50
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a97c077ab98400a9ae710b3d40f84f
+      internalID: -1328010779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_70
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 354
+        width: 33
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5151515, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2664037b4044cb78b66ee3e40e5305
+      internalID: 829584220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_71
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 354
+        width: 32
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d9ce3c2e6274c85b6ed5686367f71f
+      internalID: -1398868476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_72
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 354
+        width: 50
+        height: 31
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611e0b7ff39154e3cb4a765d70469552
+      internalID: 442283482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_73
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 354
+        width: 32
+        height: 31
+      alignment: 9
+      pivot: {x: 0.59375, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d98a5eb8cda4ff6a10d282b1cd1fd9
+      internalID: -13766719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_74
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 354
+        width: 31
+        height: 31
+      alignment: 9
+      pivot: {x: 0.58064514, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003e52dcf7b3944a387538c6c729dea4
+      internalID: -955409716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_75
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 354
+        width: 50
+        height: 31
+      alignment: 9
+      pivot: {x: 0.04, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a22c0bbea9141caa65eda14bbd6cae
+      internalID: -1948619213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_76
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 305
+        width: 33
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.033333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1444587f91944f98c3617b097847dc
+      internalID: -416727123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_77
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 306
+        width: 32
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e709d19e1d6243ccb8955cd1701dd16
+      internalID: 591480230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_78
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 306
+        width: 54
+        height: 29
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42849b719b604fd19bb009e945f8fd5
+      internalID: 1997538769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_79
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 299
+        width: 33
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.23333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4d47e09ed984764b8999be9ac37404
+      internalID: -1830782058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_80
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 306
+        width: 32
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc644576086f4693bcbe8f6af43e61c
+      internalID: 435912977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_81
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 306
+        width: 54
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750c074d9ebe1432eb7e07eadabb32d1
+      internalID: -674588935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_82
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 306
+        width: 33
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7237e87b3e8147d2bf0f61cb4a5bab5
+      internalID: 1387743641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_83
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 306
+        width: 32
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a4958a7455c4a369ba37631ac1b6d6
+      internalID: 916451669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_84
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 306
+        width: 54
+        height: 31
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada8942ffa00244a39479fbd5cf6aed9
+      internalID: -1253596985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_85
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 306
+        width: 32
+        height: 31
+      alignment: 9
+      pivot: {x: 0.59375, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee637539914684ad3b6dc1e4079aec62
+      internalID: -1508061888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_86
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 306
+        width: 31
+        height: 31
+      alignment: 9
+      pivot: {x: 0.58064514, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce26541575ba4bca9860432c238f5b0
+      internalID: 741818340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_87
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 306
+        width: 54
+        height: 31
+      alignment: 9
+      pivot: {x: 0.037037037, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60453a1a792a14818939965f6e4fec44
+      internalID: -900597729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_88
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 209
+        width: 32
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.033333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da01c1fb3bb0c498e8534b832d9d1d9a
+      internalID: -1597037090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_89
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 210
+        width: 32
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0684943e931684b3aa0be07cafcb08c4
+      internalID: 601624857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_90
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 210
+        width: 62
+        height: 29
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbe64250148a4308875746217da3c32
+      internalID: 1265182624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_91
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 202
+        width: 32
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2580645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0766b997724f644eaabc4dc7848754a9
+      internalID: -1565299131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_92
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 210
+        width: 32
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7e9fa39e2ca42299fc191e75700829
+      internalID: 1810230055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_93
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 210
+        width: 62
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50530d13c0d740c68a41e26776814f7
+      internalID: 2112754089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_94
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 210
+        width: 32
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2e9d21d48964f44a63862d436333fe
+      internalID: -1257133125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_95
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 210
+        width: 32
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157759a2cbacd46c88bdec3f8f2b33ba
+      internalID: -253137127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_96
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 210
+        width: 62
+        height: 31
+      alignment: 9
+      pivot: {x: -0, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f395852730444dc89ada4e05c0ee15
+      internalID: -1453369745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_97
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 210
+        width: 31
+        height: 31
+      alignment: 9
+      pivot: {x: 0.58064514, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1660ebaaa3634bb3a763a049ed75307
+      internalID: 1054114151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_98
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 210
+        width: 31
+        height: 31
+      alignment: 9
+      pivot: {x: 0.58064514, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e789e5c06d04516a1ed2ae6c5ff284
+      internalID: 1695888529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_99
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 210
+        width: 62
+        height: 31
+      alignment: 9
+      pivot: {x: 0.032258064, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e452b731ad24f88b63f493b6794287
+      internalID: 1384995010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_100
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 161
+        width: 32
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.033333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b46c7c44b264ea490f9ed9d5298e85
+      internalID: 1402768850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_101
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 162
+        width: 32
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937047a9de11b4f36b2243f5337736cf
+      internalID: -180088587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_102
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 162
+        width: 62
+        height: 29
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd78517c398643e68dbe9be2b680e69
+      internalID: -60373939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_103
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 154
+        width: 32
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2580645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f32533f8b949472d9beb03aec5250eb
+      internalID: -261800870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_104
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 162
+        width: 32
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef62dcfabf8f84e01b06fdf8aec7e5e1
+      internalID: -1642246590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_105
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 162
+        width: 62
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa10c81ebe6c448e8cc81a93ecc8394
+      internalID: -1031447434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_106
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 162
+        width: 32
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd3b9e19d0b54d00ad172363c17462c
+      internalID: -348107663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_107
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 162
+        width: 32
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92addcd492e56467f93fd03990613f4d
+      internalID: -549439362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_108
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 162
+        width: 62
+        height: 31
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d167801a17a3b40079c39d2b2094b564
+      internalID: 502432753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_109
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 162
+        width: 31
+        height: 31
+      alignment: 9
+      pivot: {x: 0.58064514, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e007cb51aa0458992c6854cabf38e5
+      internalID: 724974173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_110
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 162
+        width: 31
+        height: 31
+      alignment: 9
+      pivot: {x: 0.58064514, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239c7e558b32e4890b8eb3f05b511e1a
+      internalID: 487380551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_111
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 162
+        width: 62
+        height: 31
+      alignment: 9
+      pivot: {x: 0.032258064, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af86e9f4023a14e159919a3480a64998
+      internalID: -545077125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_112
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 113
+        width: 33
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4848485, y: 0.033333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1eb044198699453b9a50ea072d7e745
+      internalID: -1786601965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_113
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 114
+        width: 32
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75826528cb4e4d1882de197aa63160a
+      internalID: -566916083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_114
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 114
+        width: 62
+        height: 29
+      alignment: 9
+      pivot: {x: -0, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae374389c8c44fa48a329ef9028e454
+      internalID: 550058274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_115
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 107
+        width: 32
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8459cfc333b31449a84d0d51482587e1
+      internalID: -1349477419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_116
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 114
+        width: 32
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ad3601da4994535bf64148962820ec
+      internalID: 912495185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_117
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 114
+        width: 62
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e1ee37aa930473ebaf187f848edcc6
+      internalID: 1449422374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_118
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 114
+        width: 32
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a201d301247d24a5d9076e86d5ef8b83
+      internalID: -197159548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_119
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 114
+        width: 32
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd28cd4eaf7594c3cacdb61113f2b7c1
+      internalID: 1439468795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_120
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 114
+        width: 62
+        height: 31
+      alignment: 9
+      pivot: {x: -0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb403304fe866497fa51e6b71cac41bb
+      internalID: 1270516169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_121
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 114
+        width: 31
+        height: 31
+      alignment: 9
+      pivot: {x: 0.58064514, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57f25e60e87141868f065562e6c835e
+      internalID: -1889276866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_122
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 114
+        width: 31
+        height: 31
+      alignment: 9
+      pivot: {x: 0.58064514, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fba1821187f4ef48440d5e8705715d
+      internalID: 620725147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccas_123
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 114
+        width: 62
+        height: 31
+      alignment: 9
+      pivot: {x: 0.032258064, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086c147ffe41c4c78bd23d7d246c7320
+      internalID: -679380195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ccas_0: 605165196
+      ccas_1: 883785342
+      ccas_10: -1151099892
+      ccas_100: 1402768850
+      ccas_101: -180088587
+      ccas_102: -60373939
+      ccas_103: -261800870
+      ccas_104: -1642246590
+      ccas_105: -1031447434
+      ccas_106: -348107663
+      ccas_107: -549439362
+      ccas_108: 502432753
+      ccas_109: 724974173
+      ccas_11: 1256290290
+      ccas_110: 487380551
+      ccas_111: -545077125
+      ccas_112: -1786601965
+      ccas_113: -566916083
+      ccas_114: 550058274
+      ccas_115: -1349477419
+      ccas_116: 912495185
+      ccas_117: 1449422374
+      ccas_118: -197159548
+      ccas_119: 1439468795
+      ccas_12: 595546392
+      ccas_120: 1270516169
+      ccas_121: -1889276866
+      ccas_122: 620725147
+      ccas_123: -679380195
+      ccas_13: -425988511
+      ccas_14: 649908666
+      ccas_15: -26663032
+      ccas_16: -303909854
+      ccas_17: 260854017
+      ccas_18: 502179435
+      ccas_19: 1711804478
+      ccas_2: 1328993239
+      ccas_20: -1089747377
+      ccas_21: -1226608509
+      ccas_22: -2067061775
+      ccas_23: 807318155
+      ccas_24: -565778718
+      ccas_25: -11532339
+      ccas_26: -150875851
+      ccas_27: 1672930931
+      ccas_28: 79778034
+      ccas_29: 869318049
+      ccas_3: -1243849232
+      ccas_30: 669909775
+      ccas_31: 927490200
+      ccas_32: -1615794834
+      ccas_33: -989169926
+      ccas_34: -362144467
+      ccas_35: -1873677061
+      ccas_36: -2016715564
+      ccas_37: 581586009
+      ccas_38: 1188160626
+      ccas_39: -1203007684
+      ccas_4: 1841557674
+      ccas_40: -968481505
+      ccas_41: 898773001
+      ccas_42: 789990363
+      ccas_43: -1855143704
+      ccas_44: -1112562502
+      ccas_45: -1175360682
+      ccas_46: -723218923
+      ccas_47: -999156632
+      ccas_48: -2062167224
+      ccas_49: -400828111
+      ccas_5: 79752290
+      ccas_50: -1135998365
+      ccas_51: -262603577
+      ccas_52: -1213577069
+      ccas_53: -147693012
+      ccas_54: 1801213195
+      ccas_55: -432144173
+      ccas_56: -1428730478
+      ccas_57: -1731491252
+      ccas_58: 533034978
+      ccas_59: 839661204
+      ccas_6: 1488886798
+      ccas_60: -111862342
+      ccas_61: 1735265983
+      ccas_62: 1540717072
+      ccas_63: -1452835059
+      ccas_64: -1709011431
+      ccas_65: -1061704218
+      ccas_66: 1130362609
+      ccas_67: -1245315379
+      ccas_68: -1300136448
+      ccas_69: -1328010779
+      ccas_7: 223803795
+      ccas_70: 829584220
+      ccas_71: -1398868476
+      ccas_72: 442283482
+      ccas_73: -13766719
+      ccas_74: -955409716
+      ccas_75: -1948619213
+      ccas_76: -416727123
+      ccas_77: 591480230
+      ccas_78: 1997538769
+      ccas_79: -1830782058
+      ccas_8: 1256508162
+      ccas_80: 435912977
+      ccas_81: -674588935
+      ccas_82: 1387743641
+      ccas_83: 916451669
+      ccas_84: -1253596985
+      ccas_85: -1508061888
+      ccas_86: 741818340
+      ccas_87: -900597729
+      ccas_88: -1597037090
+      ccas_89: 601624857
+      ccas_9: -370702446
+      ccas_90: 1265182624
+      ccas_91: -1565299131
+      ccas_92: 1810230055
+      ccas_93: 2112754089
+      ccas_94: -1257133125
+      ccas_95: -253137127
+      ccas_96: -1453369745
+      ccas_97: 1054114151
+      ccas_98: 1695888529
+      ccas_99: 1384995010
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
