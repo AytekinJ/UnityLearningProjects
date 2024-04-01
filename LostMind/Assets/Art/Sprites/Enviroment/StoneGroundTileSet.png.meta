@@ -1,0 +1,3056 @@
+fileFormatVersion: 2
+guid: f19c40c327ca3410ea2ae5950588d931
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StoneGroundTileSet_3
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -28, y: 64}
+        - {x: -28, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389f45f7788da4fd2b1a3becd279d5ee
+      internalID: -425781177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_4
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 1384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 32, y: -64}
+        - {x: 32, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eea8cd61794348e1897624aac8fde0a
+      internalID: 1104134445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_6
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -28, y: 64}
+        - {x: -28, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1175c65873b8e48af9f80284563eb62c
+      internalID: 72202812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_7
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 1256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 32, y: -64}
+        - {x: 32, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03453f34760eb48ea8384ee859fb2aa2
+      internalID: -1700226376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_10
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 100}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: -37}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c2ab3a66eb74f48a1a3dc032a3eb06
+      internalID: -1720137722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_11
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 100}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: -37}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0ddbb3b73c8459ca77c443c7d06c55
+      internalID: -1706023906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_12
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 100}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: -37}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1baaf05ed9dc54750812bf38d0381926
+      internalID: -728954003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_13
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 100}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: -37}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c1ab961bf184b94bd274e318d9c7ce
+      internalID: 181153893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_14
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 100}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: -37}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214c9abd6641046d797504360ace7c12
+      internalID: -278555089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_16
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 100, y: 0, z: 0, w: 100}
+      outline: []
+      physicsShape:
+      - - {x: 24, y: -37}
+        - {x: 49, y: -45}
+        - {x: 64, y: -53}
+        - {x: 64, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0edc7a7a5a81d412991253c3ecf633a2
+      internalID: -1688559882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_17
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 1128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 100}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: -37}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aabd8cff8fcb4b53a9010895f958f8b
+      internalID: -790509880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_18
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 100}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: -37}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925fccf3cf66b4142891aaeab9aa07ca
+      internalID: -52240016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_19
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 100}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: -37}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a18833c5fcb42099d56afc93c7b381
+      internalID: 1500357654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_21
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 1128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 100}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: -37}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5101ec160c749f392f044855c82e67
+      internalID: -307347997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_22
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 100}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: -37}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e9ba6873f434a0b81336c6a9939abe
+      internalID: -642685161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_23
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 100}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: -37}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad47653d8cc9e4cd7bc961196360f3d2
+      internalID: -2018360873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_24
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 100, w: 100}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: -37}
+        - {x: -64, y: -64}
+        - {x: -51, y: -47}
+        - {x: -15, y: -38}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c7e963c4e84491d9b73e685317b46f
+      internalID: -1862618935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_25
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -28, y: 64}
+        - {x: -28, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa7be916109243a78c9af80a8e074a5
+      internalID: 1465583456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_26
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 1128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 32, y: -64}
+        - {x: 32, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0f8ec5b8a964e93a1abde966a1ca7c
+      internalID: -760624053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_27
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0e7cf555dcd44e290f0cddd2ca4bf2
+      internalID: -1411558845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_28
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 1128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e491b4ede30449f396ce6a771e3c586
+      internalID: 359766910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_29
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 1128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98ceef66d49740898ec336cc3920fbc
+      internalID: -1103916507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_30
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 1128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e89a450249854fe69debff8293ee3b0
+      internalID: -2032174864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_31
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 1128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc51a1a13126b4b148ea37e3ca8020fe
+      internalID: 1391390756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_33
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1000
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a0edb4d82dd430590b72b12a416229
+      internalID: -1066881458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_34
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1000
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f6e6a1be0464b3e9973b0adec88b9d
+      internalID: -588110704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_35
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1000
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b631379ffaa4ca1bfa02d56706abc7
+      internalID: -1785650393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_36
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1000
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75450a5d66adf4bdb8dfe28b9c8ed0ab
+      internalID: -55642253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_37
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1000
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe9e255a26a24fc6b16ba3edccd19da
+      internalID: -2043247762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_39
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 1000
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f036ecfff096940efb76a4000ab1e605
+      internalID: -2131767513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_40
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1000
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -28, y: 64}
+        - {x: -28, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a4b5b09307a4114b5dcf9ec84689b1
+      internalID: -638973021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_41
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1000
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366ea19d34dfc42f9ac200df12d44bcc
+      internalID: 1410298904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_43
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 1000
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0a728322e214b5da9c04335f9d4c0f
+      internalID: 1193066144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_44
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1000
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 32, y: -64}
+        - {x: 32, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d105e5971a120469db146b9bee3e9d75
+      internalID: 1010700911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_45
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1000
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d2988a76c784dc28a9807929478344
+      internalID: -547476340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_46
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1000
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -28, y: 64}
+        - {x: -28, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7cdd9631782e4b06bc33d9e36c17f5c
+      internalID: -402423457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_47
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 1000
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 32, y: -64}
+        - {x: 32, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a4d8bec4f424ed4b7023b9e1c7f17e
+      internalID: 1883697309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_49
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 1000
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cbf76a4ddb044aca2fd819b3b2b9d7
+      internalID: -1813037334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_50
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 1000
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a5d5d8cfb50499bbf35b0cddf3a8f8
+      internalID: 1935951623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_52
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 872
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a02adf6a906945a09d05a1ef7f9221e
+      internalID: 138945307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_53
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 872
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7994625eb624007b7085d39a30c4ec
+      internalID: -1871086833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_54
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 872
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab284163c5d14656b559837a44bf7a5
+      internalID: -463581227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_55
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 872
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc54edb8080804a4fb79439c81fd394f
+      internalID: 644143087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_56
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 872
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fb1ec59a5984bdea5cf622bae8df20
+      internalID: -1455449942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_58
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 872
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7109643a145d4a7a8b3ec7cd094d4ce
+      internalID: 1648516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_59
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 872
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -28, y: 64}
+        - {x: -28, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bb9121fd78b41cbb814ac03e414b59
+      internalID: 567857947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_60
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 872
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e07bbd7505746b592577375df139f8
+      internalID: -938212060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_62
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 872
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc1ad1a663c04f6fb5955c95c8cbffc
+      internalID: 458554393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_63
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 872
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 32, y: -64}
+        - {x: 32, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c674409c48147dda37b133a9ee8017
+      internalID: -112233547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_64
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 872
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f9ebe34e61647f9b6ce2420bc959f9
+      internalID: 1843365663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_66
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 872
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -28, y: 64}
+        - {x: -28, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530765cc2ab2941f6a6ac2761fcc2b7c
+      internalID: 752029548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_67
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 872
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 32, y: -64}
+        - {x: 32, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebdf6f75fb3b4455b22fb7f4b4de1c4
+      internalID: -1715205698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_69
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 872
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4586b1bfc8f46d28caedc5e6d62164
+      internalID: -1446865716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_70
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 872
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e200e632bd8d48c99266d6738cb26f7
+      internalID: -1735803777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_71
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 872
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d959b56dc032c4d43b0d284889e1e6fb
+      internalID: -948137406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_72
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 872
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52a0e9f2944c4dc68a63b4395a87729
+      internalID: 1545011351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_73
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 744
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 80, y: 0, z: 0, w: 100}
+      outline: []
+      physicsShape:
+      - - {x: 21, y: -37}
+        - {x: 3, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be4c9eaf6b3d4385aee6eb791f406aa
+      internalID: -1150442782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_74
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 744
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 100}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: -37}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7615f8fcfed04228b9fd4c2f7826d33
+      internalID: -904186851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_75
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 744
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 100}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: -37}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec3850707b1a4a4ba2ee760875a5cec
+      internalID: 200466379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_76
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 744
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 100}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: -37}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338aa569b46ae412db4f4c5e40f39e7f
+      internalID: 1862398553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_77
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 744
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 100}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: -37}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8447c23325ede46b9889e28b0c7e3703
+      internalID: 1134598335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_78
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 744
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 100}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: -37}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465e357d9d2c34a939dcf3d18236cebd
+      internalID: 1036333082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_79
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 744
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 100}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: -37}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a055a033c5e94648972e3eecd47c477
+      internalID: 335417163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_80
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 744
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 100}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: -37}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93462d7cb767142409fa686e1afae6f8
+      internalID: -1909085505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_81
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 744
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 100}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: -37}
+        - {x: -64, y: -64}
+        - {x: -8, y: -64}
+        - {x: -34, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f01d57ec58b475e88e31fa19271bab
+      internalID: -1532985600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_87
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 744
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -28, y: 64}
+        - {x: -28, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda97c5d9e6734056a83b982e9158b47
+      internalID: 1263738272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_88
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 744
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 32, y: -64}
+        - {x: 32, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3ec1a06334a4bd78f8e71e94c8e325
+      internalID: 1644692822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_90
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 744
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4095c8071479d43148bcd5d17b7a1732
+      internalID: 885029446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_91
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 616
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: 64}
+        - {x: 3, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd16490c6dc3438e9e020a671c3bf3a
+      internalID: 154263234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_92
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 616
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff82672d0d1de4685b0fb3760c882414
+      internalID: -1878944246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_93
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 616
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91266e58c4663452bb01f7977ec4f28c
+      internalID: 341853585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_94
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 616
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913e5c4ed867c438188e37892afba418
+      internalID: -1875520969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_95
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 616
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd3bb8a0a4ff4537883923ae1713840
+      internalID: 862859629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_96
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 616
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb5050daa61a4d5487d2e5f82d8311f
+      internalID: 1154062221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_97
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 616
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cea58831b844ad6b5ef2f41eeccfaf
+      internalID: 1518421812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_98
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 616
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29837c4af313460ca462b017ad1943d
+      internalID: -1855043726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_99
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 616
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: -8, y: -64}
+        - {x: -8, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ddcac96f5b24a1aa86642d258357c9
+      internalID: -1288022134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_100
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 616
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 100, y: 0, z: 0, w: 100}
+      outline: []
+      physicsShape:
+      - - {x: 24, y: -37}
+        - {x: 49, y: -45}
+        - {x: 64, y: -53}
+        - {x: 64, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b90cf4051e0d4a4dac146a63a49324c
+      internalID: 826201832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_101
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 616
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 100}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: -37}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297c12da4cef84f7d91f2e3aad9c1891
+      internalID: -1303626603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_102
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 616
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 100}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: -37}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cced9239b0c28427e8b9fa62505bef54
+      internalID: -325942620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_103
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 616
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 100}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: -37}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c26a029d75e4f1aaa725e948552cf4
+      internalID: 1854879604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_104
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 616
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235ec570068cd4863a1b84aa90b4b1ac
+      internalID: -1178832188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_105
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 616
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 100}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: -37}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: be42cc3b94bf44f52be3707f52aa8d68
+      internalID: 1916519305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_106
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 616
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 100}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: -37}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d8680bb41da4f1e9f28750a96aa552
+      internalID: 1002250023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_107
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 616
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 100}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: -37}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b1bbb431c2d4d6cb97a2543188c765
+      internalID: 2021236143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_108
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 616
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 100, w: 100}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6afda1d53ca4820a6bf4a18562f6c6
+      internalID: 170718971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_110
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 616
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -28, y: 64}
+        - {x: -28, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c92fc2bbae0945bdb970acfc5e19d1d
+      internalID: 1959278517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_111
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 616
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 32, y: -64}
+        - {x: 32, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb71ceb36ede4fcbbda1d2f1c46b625
+      internalID: 1483741424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_112
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 488
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: 64}
+        - {x: 9, y: -8}
+        - {x: 64, y: -8}
+        - {x: 64, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18f2c48ae17948c0893471aa09ee741
+      internalID: 1204698310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_113
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 488
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d07ddccb43745ef8bb5dec44a4d7bb
+      internalID: 1182587446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_114
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 488
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7e9128c8b98430e8ffa3cd87c30b6a
+      internalID: 2063335884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_115
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 488
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ef9da15a5cd4e2fa95917e9d7f8c89
+      internalID: -1252387968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_116
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 488
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbadf2dd42354bc29a88d53d0268deb
+      internalID: 275085956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_117
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 488
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d67661ce7064c34913099bb662b396
+      internalID: -1566328501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_118
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 488
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f33d7dd7b0b74a1780b032a438ffcb3
+      internalID: 106607806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_119
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 488
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca0b574d52ab4064a7441564ed00f07
+      internalID: -449482466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_120
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 488
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -17}
+        - {x: -9, y: -17}
+        - {x: -8, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e445b406cda64494bd52f5734ab1887
+      internalID: -1702436918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_121
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 488
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd2eb567226142d38a3a56ca134a7b7
+      internalID: 1487666800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_122
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 488
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -28, y: 64}
+        - {x: -28, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74abbc31cca74da590a22fe349e0ad1
+      internalID: -564771062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_123
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 488
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf7bf7bc032f411989ac0def9ac309f
+      internalID: 1924179138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_124
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 488
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc8f1ff660f446c1924df3ed575ac4c
+      internalID: 413107414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_125
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 488
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50f98680bc934578bbfaf46c55fd1d0
+      internalID: 1600920515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_126
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 488
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 32, y: -64}
+        - {x: 32, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb96fa539f4fc439daf5a3764c34cca6
+      internalID: 569962435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_127
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 488
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d824eb47c416c46dd84fad45f4c30442
+      internalID: -1303185677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_128
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 488
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -28, y: 64}
+        - {x: -28, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed322c63c8d143eda8af9f2577c5e70
+      internalID: -1826697688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_129
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 488
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 32, y: -64}
+        - {x: 32, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5747ce2dd0d541afbad9e5d184f7c8e
+      internalID: -147652562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_133
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdef9134c4bc4bc58dd095ce605ce2f
+      internalID: -752206407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_134
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -28, y: 64}
+        - {x: -28, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42772d0f37070458ebbf18c96a337e74
+      internalID: -1919793753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_135
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8c243c0f04d44d3b92cc4a16a5f427
+      internalID: 1744413750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_136
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9035befd83eb448fc91726397b898085
+      internalID: 1895474118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_137
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a18f688bea54b049686a47f73f4838
+      internalID: 419739036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_138
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 32, y: -64}
+        - {x: 32, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a867977caceda49d98a9e194eaa619ff
+      internalID: 1479858435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_139
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3067ee9e64548b2a052ef5a98791a2
+      internalID: -475906166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_143
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 232
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7892921795841609b22ec7eee95a36
+      internalID: 1414098604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_144
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 232
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63289caa881af40a68cdef825cde03db
+      internalID: -2028814307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_150
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad79d263448c4e2095f67ed91a8e280
+      internalID: -821101263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_151
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c3dac7acc36450fb572f1e9575a7e5
+      internalID: -296249177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_152
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689ff55b36c2e4b4cbb99206a15cf3b1
+      internalID: 1895418859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_153
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e54f48e7cacb4f2db809e7192332da3
+      internalID: -573605612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGroundTileSet_154
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316083786c3ea46b4bdf7c9e2457a877
+      internalID: -1173919753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      StoneGroundTileSet_0: 1315419071
+      StoneGroundTileSet_1: 918491739
+      StoneGroundTileSet_10: -1720137722
+      StoneGroundTileSet_100: 826201832
+      StoneGroundTileSet_101: -1303626603
+      StoneGroundTileSet_102: -325942620
+      StoneGroundTileSet_103: 1854879604
+      StoneGroundTileSet_104: -1178832188
+      StoneGroundTileSet_105: 1916519305
+      StoneGroundTileSet_106: 1002250023
+      StoneGroundTileSet_107: 2021236143
+      StoneGroundTileSet_108: 170718971
+      StoneGroundTileSet_109: -648818894
+      StoneGroundTileSet_11: -1706023906
+      StoneGroundTileSet_110: 1959278517
+      StoneGroundTileSet_111: 1483741424
+      StoneGroundTileSet_112: 1204698310
+      StoneGroundTileSet_113: 1182587446
+      StoneGroundTileSet_114: 2063335884
+      StoneGroundTileSet_115: -1252387968
+      StoneGroundTileSet_116: 275085956
+      StoneGroundTileSet_117: -1566328501
+      StoneGroundTileSet_118: 106607806
+      StoneGroundTileSet_119: -449482466
+      StoneGroundTileSet_12: -728954003
+      StoneGroundTileSet_120: -1702436918
+      StoneGroundTileSet_121: 1487666800
+      StoneGroundTileSet_122: -564771062
+      StoneGroundTileSet_123: 1924179138
+      StoneGroundTileSet_124: 413107414
+      StoneGroundTileSet_125: 1600920515
+      StoneGroundTileSet_126: 569962435
+      StoneGroundTileSet_127: -1303185677
+      StoneGroundTileSet_128: -1826697688
+      StoneGroundTileSet_129: -147652562
+      StoneGroundTileSet_13: 181153893
+      StoneGroundTileSet_130: -264823153
+      StoneGroundTileSet_131: -684577805
+      StoneGroundTileSet_132: -393876496
+      StoneGroundTileSet_133: -752206407
+      StoneGroundTileSet_134: -1919793753
+      StoneGroundTileSet_135: 1744413750
+      StoneGroundTileSet_136: 1895474118
+      StoneGroundTileSet_137: 419739036
+      StoneGroundTileSet_138: 1479858435
+      StoneGroundTileSet_139: -475906166
+      StoneGroundTileSet_14: -278555089
+      StoneGroundTileSet_140: -96582181
+      StoneGroundTileSet_141: -788701868
+      StoneGroundTileSet_142: -650361897
+      StoneGroundTileSet_143: 1414098604
+      StoneGroundTileSet_144: -2028814307
+      StoneGroundTileSet_145: 1047456886
+      StoneGroundTileSet_146: -96215235
+      StoneGroundTileSet_147: -787844104
+      StoneGroundTileSet_148: 1769476959
+      StoneGroundTileSet_149: -1927666270
+      StoneGroundTileSet_15: -331279755
+      StoneGroundTileSet_150: -821101263
+      StoneGroundTileSet_151: -296249177
+      StoneGroundTileSet_152: 1895418859
+      StoneGroundTileSet_153: -573605612
+      StoneGroundTileSet_154: -1173919753
+      StoneGroundTileSet_16: -1688559882
+      StoneGroundTileSet_17: -790509880
+      StoneGroundTileSet_18: -52240016
+      StoneGroundTileSet_19: 1500357654
+      StoneGroundTileSet_2: -2113002356
+      StoneGroundTileSet_20: -1509053041
+      StoneGroundTileSet_21: -307347997
+      StoneGroundTileSet_22: -642685161
+      StoneGroundTileSet_23: -2018360873
+      StoneGroundTileSet_24: -1862618935
+      StoneGroundTileSet_25: 1465583456
+      StoneGroundTileSet_26: -760624053
+      StoneGroundTileSet_27: -1411558845
+      StoneGroundTileSet_28: 359766910
+      StoneGroundTileSet_29: -1103916507
+      StoneGroundTileSet_3: -425781177
+      StoneGroundTileSet_30: -2032174864
+      StoneGroundTileSet_31: 1391390756
+      StoneGroundTileSet_32: 2003429951
+      StoneGroundTileSet_33: -1066881458
+      StoneGroundTileSet_34: -588110704
+      StoneGroundTileSet_35: -1785650393
+      StoneGroundTileSet_36: -55642253
+      StoneGroundTileSet_37: -2043247762
+      StoneGroundTileSet_38: -798967730
+      StoneGroundTileSet_39: -2131767513
+      StoneGroundTileSet_4: 1104134445
+      StoneGroundTileSet_40: -638973021
+      StoneGroundTileSet_41: 1410298904
+      StoneGroundTileSet_42: 487749965
+      StoneGroundTileSet_43: 1193066144
+      StoneGroundTileSet_44: 1010700911
+      StoneGroundTileSet_45: -547476340
+      StoneGroundTileSet_46: -402423457
+      StoneGroundTileSet_47: 1883697309
+      StoneGroundTileSet_48: -1157668143
+      StoneGroundTileSet_49: -1813037334
+      StoneGroundTileSet_5: -1256202262
+      StoneGroundTileSet_50: 1935951623
+      StoneGroundTileSet_51: -268451697
+      StoneGroundTileSet_52: 138945307
+      StoneGroundTileSet_53: -1871086833
+      StoneGroundTileSet_54: -463581227
+      StoneGroundTileSet_55: 644143087
+      StoneGroundTileSet_56: -1455449942
+      StoneGroundTileSet_57: -1353783425
+      StoneGroundTileSet_58: 1648516
+      StoneGroundTileSet_59: 567857947
+      StoneGroundTileSet_6: 72202812
+      StoneGroundTileSet_60: -938212060
+      StoneGroundTileSet_61: 1506000453
+      StoneGroundTileSet_62: 458554393
+      StoneGroundTileSet_63: -112233547
+      StoneGroundTileSet_64: 1843365663
+      StoneGroundTileSet_65: 747058427
+      StoneGroundTileSet_66: 752029548
+      StoneGroundTileSet_67: -1715205698
+      StoneGroundTileSet_68: 1971748353
+      StoneGroundTileSet_69: -1446865716
+      StoneGroundTileSet_7: -1700226376
+      StoneGroundTileSet_70: -1735803777
+      StoneGroundTileSet_71: -948137406
+      StoneGroundTileSet_72: 1545011351
+      StoneGroundTileSet_73: -1150442782
+      StoneGroundTileSet_74: -904186851
+      StoneGroundTileSet_75: 200466379
+      StoneGroundTileSet_76: 1862398553
+      StoneGroundTileSet_77: 1134598335
+      StoneGroundTileSet_78: 1036333082
+      StoneGroundTileSet_79: 335417163
+      StoneGroundTileSet_8: 692116413
+      StoneGroundTileSet_80: -1909085505
+      StoneGroundTileSet_81: -1532985600
+      StoneGroundTileSet_82: -2077428326
+      StoneGroundTileSet_83: 1658127062
+      StoneGroundTileSet_84: 369804268
+      StoneGroundTileSet_85: 1333159019
+      StoneGroundTileSet_86: -1587299458
+      StoneGroundTileSet_87: 1263738272
+      StoneGroundTileSet_88: 1644692822
+      StoneGroundTileSet_89: 102934103
+      StoneGroundTileSet_9: -844657473
+      StoneGroundTileSet_90: 885029446
+      StoneGroundTileSet_91: 154263234
+      StoneGroundTileSet_92: -1878944246
+      StoneGroundTileSet_93: 341853585
+      StoneGroundTileSet_94: -1875520969
+      StoneGroundTileSet_95: 862859629
+      StoneGroundTileSet_96: 1154062221
+      StoneGroundTileSet_97: 1518421812
+      StoneGroundTileSet_98: -1855043726
+      StoneGroundTileSet_99: -1288022134
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
