@@ -25,7 +25,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 93754
+  controlID: 28
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -150,7 +150,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 93755
+  controlID: 29
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -170,8 +170,8 @@ MonoBehaviour:
     y: 0
     width: 626.5
     height: 451.5
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 5}
   m_Panes:
   - {fileID: 5}
@@ -560,9 +560,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0, y: 0, z: 0}
+    m_Target: {x: -0.50535035, y: 0.025803708, z: -0.0051306896}
     speed: 2
-    m_Value: {x: 0, y: 0, z: 0}
+    m_Value: {x: -0.50535035, y: 0.025803708, z: -0.0051306896}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -612,9 +612,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 10
+    m_Target: 13.305431
     speed: 2
-    m_Value: 10
+    m_Value: 13.305431
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -728,8 +728,8 @@ MonoBehaviour:
     y: 451.5
     width: 626.5
     height: 389.5
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 2}
   m_Panes:
   - {fileID: 8}
@@ -772,7 +772,7 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: 64790
+  m_LastSelectedObjectID: 71914
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -797,7 +797,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 93676
+  controlID: 77
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -817,8 +817,8 @@ MonoBehaviour:
     y: 0
     width: 545
     height: 495
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 11}
   m_Panes:
   - {fileID: 11}
@@ -862,9 +862,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: ca8f0000
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 0e93fcff0294fcffaa94fcffbe95fcffa8a0fcff94a5fcffe4a8fcffe2befcff74c4fcffa4cdfcff26d5fcffc0dafcff48dcfcff5eddfcff30defcff94ecfcfff8edfcfff0effcff4cf7fcff58f8fcffeef9fcffc4fbfcffa2fcfcff3802fdff1803fdff2e04fdff3c05fdff566dfdff266efdff2e6ffdff4270fdff4c73fdff6274fdff3275fdff0276fdff1677fdff0878fdff1c79fdff907bfdff607cfdff307dfdff0e7efdff227ffdff1c84fdff3085fdfffa85fdff1c88fdffc489fdfff88afdff1e8cfdffe88dfdffba8ffdffce90fdff9e91fdff9092fdff26a2fdffa4acfdff88c7fdff5cc8fdff14d0fdffced8fdff9adbfdffc4dcfdff6edffdff60e0fdff4ee1fdff3ce2fdff4ae3fdff3ce4fdff2ee5fdfffee5fdffb0e7fdffb4e8fdff84e9fdff8827feffe428feffd246feffe446feff7a48feff8653feffda57feff565afeff0864fefffc69feffc46dfeff5078feffc67cfefff87dfeffb87ffeff9c80fefffe81feffce82feffc69bfeff0aa0fefff6b7feffb0bcfefffec0feff5ac3feff78c4feff30f2feff16fbffff4e6e00005c9b0000b09f0000fca2000062aa0000bcae00005cbd000010c000005cc60000d2c8000016d40000d4d90000daf4000014f5000098f90000b2fc0000
+      m_ExpandedIDs: faf7ffffd0f8ffff16fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -941,8 +941,8 @@ MonoBehaviour:
     y: 495
     width: 545
     height: 346
-  m_MinSize: {x: 232, y: 271}
-  m_MaxSize: {x: 10002, y: 10021}
+  m_MinSize: {x: 230, y: 250}
+  m_MaxSize: {x: 10000, y: 10000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -993,7 +993,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Software/Scenes
+    - Assets/Tarodev 2D Controller/Demo
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -1001,16 +1001,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 70
   m_LastFolders:
-  - Assets/Software/Scenes
+  - Assets/Tarodev 2D Controller/Demo
   m_LastFoldersGridSize: 70
   m_LastProjectPath: /Users/admin/11Copluk/Github/UnityLearningProjects/GameMechanicTry
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 95}
-    m_SelectedIDs: 30710000
-    m_LastClickedID: 28976
-    m_ExpandedIDs: 000000007c7000008670000000ca9a3bffffff7f
+    m_SelectedIDs: 52710000
+    m_LastClickedID: 29010
+    m_ExpandedIDs: 000000004e6f0000d4700000d87000001071000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1038,7 +1038,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000007c70000000ca9a3bffffff7f
+    m_ExpandedIDs: 000000004e6f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1063,9 +1063,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: ca8f0000
-    m_LastClickedInstanceID: 36810
-    m_HadKeyboardFocusLastEvent: 0
+    m_SelectedInstanceIDs: 5e710000
+    m_LastClickedInstanceID: 29022
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: 00000000b0700000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -1113,8 +1113,8 @@ MonoBehaviour:
     y: 0
     width: 298.5
     height: 841
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -1160,7 +1160,7 @@ MonoBehaviour:
     m_CachedPref: -160
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
-  m_LastInspectedObjectInstanceID: -1
+  m_LastInspectedObjectInstanceID: 29022
   m_LastVerticalScrollValue: 0
   m_GlobalObjectId: 
   m_InspectorMode: 0
